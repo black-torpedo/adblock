@@ -2,3 +2,4 @@
 # adblock lists
 
 mouseflow.com
+cdn.mouseflow.com
