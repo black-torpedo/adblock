@@ -3,3 +3,9 @@
 
 mouseflow.com
 cdn.mouseflow.com
+static.media.net
+adservetx.media.net
+tools.mouseflow.com
+stats.wp.com
+cs.luckyorange.net
+settings.luckyorange.net
